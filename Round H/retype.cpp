@@ -1,3 +1,10 @@
+/***
+    Google Kickstart 2020
+    Author : Mubashir Ahmad
+    Retype
+    Round H
+**/
+
 #include <bits/stdc++.h>
 using namespace std;
 

@@ -1,3 +1,11 @@
+/***
+    Google Kickstart 2020
+    Author : Mubashir Ahmad
+    Painter's Duel
+    Round F
+**/
+
+
 #include <bits/stdc++.h>
 using namespace std;
 

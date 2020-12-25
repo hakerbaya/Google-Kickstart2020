@@ -1,3 +1,10 @@
+/***
+    Google Kickstart 2020
+    Author : Mubashir Ahmad
+    Alien Piano
+    Round D
+**/
+
 #include <bits/stdc++.h>
 using namespace std;
 

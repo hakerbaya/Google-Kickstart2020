@@ -1,3 +1,11 @@
+/***
+    Google Kickstart 2020
+    Author : Mubashir Ahmad
+    Robot Path Decoding
+    Round B
+**/
+
+
 #include<bits/stdc++.h> 
 using namespace std; 
   

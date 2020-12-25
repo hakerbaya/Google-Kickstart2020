@@ -1,3 +1,10 @@
+/***
+    Google Kickstart 2020
+    Author : Mubashir Ahmad
+    High Buildings
+    Round E
+**/
+
 #include <bits/stdc++.h>
 
 using namespace std;

@@ -1,3 +1,10 @@
+/***
+    Google Kickstart 2020
+    Author : Mubashir Ahmad
+    Metal Harvest
+    Round F
+**/
+
 #include <bits/stdc++.h>
 using namespace std;
 
